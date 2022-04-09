@@ -1,13 +1,14 @@
 ### Hi there 👋
 
-I'm Joe (or `JDTech` online), a student from Canada who codes for fun, convenience, and occasionally profit 😉. I use Python for *almost* everything—with the exception being C++ for Arduino/ESP/VEX projects. Thanks for checking out my profile!
+I'm Joe (or `JDTech` online), a student from Canada who codes for fun, convenience, and occasionally profit 😉. I use Python for *almost* everything—with the exception of occasional web projects and C++ for Arduino/ESP/VEX/FRC projects. Thanks for checking out my profile!
 
 🔭 I’m currently working on ...
 
 - Automated YouTube archiving Discord bot (for the [Distributed YouTube Archive](https://j0e.ca/yt/)) Discord server
-- VEX EDR/AI robots for team [1010S](https://github.com/JRE-Robotics) at TenTon Robotics
+- VEX EDR/AI robots for team [1010S](https://github.com/JRE-Robotics) and FRC robots for team 6364 at TenTon Robotics
 - TheBrandTool: a branding and social media management tool 
 - [Inova Computer Association](https://inovaca.org/): a non-profit organization aiming to spread computer science knowledge through webinars and interactive workshops
+- *...and all sorts of other small/random projects!*
 
 📫 How to reach me:
 - Fastest is Discord at `JDTech#9954`
