@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Joe (or `JDTech` online), a student from Canada who codes for fun, convenience, and occasionally profit 😉. I use Python for *almost* everything—with the exception of occasional web projects and C++ for Arduino/ESP/VEX/FRC projects. Thanks for checking out my profile!
+I'm Joe (or `JDTech` online), an electrical engineering student from Canada who codes for fun, convenience, and occasionally profit 😉. I use Python for *almost* everything—with the exception of occasional web projects and C++ for Arduino/ESP/VEX/FRC projects. Thanks for checking out my profile!
 
 🔭 I’m currently working on ...
 
@@ -8,6 +8,7 @@ I'm Joe (or `JDTech` online), a student from Canada who codes for fun, convenien
 - A Mars rover @ U of T's [Robotics for Space Exploration](https://rsx.squarespace.com) design team
 - FINCH, a 3U cubesat @ U of T's [UTAT Space Systems](https://www.utat.ca/) design team
 - A 3D printed robot dog, based on James Bruton's open-source [miniDog V2](https://github.com/XRobots/miniDogV2)
+- My homelab: Proxmox server, TrueNAS NAS, and 10G/40G network
 - *...and all sorts of other small/random projects!*
 
 📫 How to reach me:
