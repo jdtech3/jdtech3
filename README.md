@@ -4,7 +4,7 @@ I'm Joe (or `JDTech` online), an electrical engineering student from Canada who 
 
 🔭 I’m currently working on ...
 
-- Automated YouTube archiving Discord bot (for the [Distributed YouTube Archive](https://j0e.ca/yt/)) Discord server
+- Automated YouTube archiving Discord bot for the [Distributed YouTube Archive](https://j0e.ca/yt/) Discord server
 - A Mars rover @ U of T's [Robotics for Space Exploration](https://rsx.squarespace.com) design team
 - FINCH, a 3U cubesat @ U of T's [UTAT Space Systems](https://www.utat.ca/) design team
 - A 3D printed robot dog, based on James Bruton's open-source [miniDog V2](https://github.com/XRobots/miniDogV2)
