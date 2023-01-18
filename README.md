@@ -20,7 +20,7 @@ I'm Joe (or `JDTech` online), an electrical engineering student from Canada who 
 
 <!-- [![JDTech3's GitHub stats](https://github-readme-stats.vercel.app/api?username=jdtech3&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
-[![JDTech3's most common languages](https://github-readme-stats-jd.vercel.app/api/top-langs/?username=jdtech3&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![JDTech3's most common languages](https://github-readme-stats-jd.vercel.app/api/top-langs/?username=jdtech3&layout=compact&theme=radical&count_private=true&hide=pascal,php&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
