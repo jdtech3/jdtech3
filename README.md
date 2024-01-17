@@ -5,6 +5,7 @@ I'm Joe (or `JDTech` online), an electrical engineering student from Canada who 
 🔭 I’m currently working on ...
 
 - _agile._, a startup working to enable real-time speech-to-speech translation in long-term care
+- Artemis, a self-driving car targeting SAE Level 4 autonomy @ U of T's [aUToronto](https://www.autodrive.utoronto.ca/about-us) design team
 - Plane n' Simple rev 0, a 2m wingspan remote control/semi-autonomous plane
 - FINCH, a 3U cubesat @ U of T's [UTAT Space Systems](https://www.utat.ca/) design team
 - A 3D printed robot dog, based on James Bruton's open-source [miniDog V2](https://github.com/XRobots/miniDogV2)
