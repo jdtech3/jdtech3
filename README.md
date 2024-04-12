@@ -23,7 +23,8 @@ I'm Joe (or `JDTech` online), an electrical engineering student from Canada who 
 
 <div align="center">
   
-  [![JDTech3's most common languages](https://github-readme-stats-jd.vercel.app/api/top-langs/?username=jdtech3&layout=compact&theme=radical&count_private=true&hide=pascal,php,html&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) [![GitHub Streak](https://streak-stats.demolab.com?user=JDTech3&theme=dark&fire=EB5454&card_width=350)](https://git.io/streak-stats)
+  <img src="https://github-readme-stats-jd.vercel.app/api/top-langs/?username=jdtech3&layout=compact&theme=radical&count_private=true&hide=pascal,php,html&langs_count=8" height="200"></img>
+  <img src="https://streak-stats.demolab.com?user=JDTech3&theme=dark&fire=EB5454&card_width=360" height="200"></img>
 
 </div>
 
