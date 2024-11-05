@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Joe (or `JDTech` online), an electrical engineering student from Canada who codes for fun, convenience, and occasionally profit 😉. I use Python for *almost* everything—with the exception of occasional web projects and C++ for Arduino/ESP/VEX/FRC projects. Thanks for checking out my profile!
+I'm Joe (or `JDTech` online), an electrical engineering student from Canada who codes for fun, convenience, and occasionally profit 😉. My main languages are C/C++ (embedded, self-driving) and Python (everything else)—with the exception of the occasional full-stack web project. Thanks for checking out my profile!
 
 🔭 I’m currently working on ...
 
