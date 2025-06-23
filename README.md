@@ -4,11 +4,9 @@ I'm Joe (or `JDTech` online), an electrical engineering student from Canada who 
 
 🔭 I’m currently working on ...
 
-- _aiko._, a startup working to enable real-time speech-to-speech translation in long-term care
 - Artemis, a self-driving car targeting SAE Level 4 autonomy @ U of T's [aUToronto](https://www.autodrive.utoronto.ca/about-us) design team
 - Plane n' Simple rev 0, a 2m wingspan remote control/semi-autonomous plane
-- A 3D printed robot dog, based on James Bruton's open-source [miniDog V2](https://github.com/XRobots/miniDogV2)
-- Archiving of at-risk YouTUbe content + administration of the [Distributed YouTube Archive](https://j0e.ca/yt/) Discord server
+- Archiving of at-risk YouTube content + administration of the [Distributed YouTube Archive](https://j0e.ca/yt/) Discord server
 - My homelab: Proxmox server, TrueNAS NAS, and 10G/40G network
 - *...and all sorts of other small/random projects!*
 
