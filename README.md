@@ -5,7 +5,7 @@ I'm Joe (or `JDTech` online), an electrical engineering student from Canada who 
 🔭 I’m currently working on ...
 
 - Artemis, a self-driving car targeting SAE Level 4 autonomy @ U of T's [aUToronto](https://www.autodrive.utoronto.ca/about-us) design team
-- Plane n' Simple rev 0, a 2m wingspan remote control/semi-autonomous plane
+- [Aquilae](https://github.com/Aquilae-UAS), a multi-drone cooperative docking proof-of-concept
 - Archiving of at-risk YouTube content + administration of the [Distributed YouTube Archive](https://j0e.ca/yt/) Discord server
 - My homelab: Proxmox server, TrueNAS NAS, and 10G/40G network
 - *...and all sorts of other small/random projects!*
